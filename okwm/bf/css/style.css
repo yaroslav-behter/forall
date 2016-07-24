@@ -1,0 +1,344 @@
+#logo {
+ float:left;
+}
+
+#fieldName {
+ font-weight:bold;
+ width:150px;
+ text-align:right;
+}
+
+#header {
+ float:left;
+ padding-left:20px;
+ width:320px;
+}
+
+#errors {
+ float:left;
+ background-color:#fee;
+ width:100%;
+ margin-top:6px;
+ padding-bottom:4px;
+ padding-top:4px;
+}
+
+.errorItems {
+	font-family:Tahoma,Verdana,Arial,Sans-Serif;
+	font-weight:bold;
+	font-size:11px;
+	color:#FF0000;
+	text-decoration:none;
+
+	padding-left:20px;
+	padding-bottom:12px;
+	background-image:url(../images/error.gif);
+	background-repeat:no-repeat;
+	background-attachment:scroll;
+}
+
+.error {
+ font-weight:bold;
+ color:#f33;
+ padding:8px;
+}
+
+.errorMessage {
+ float:left;
+ display:block;
+ width:510px;
+ padding-bottom:5px;
+ padding-top:2px;
+}
+
+.errorField {
+ background-color:#FFCCCC;
+ outline-color:#FFCCCC;
+ outline-width:1px;
+
+ font-family:Tahoma,Verdana,Arial,Sans-Serif;
+ font-weight:normal;
+ font-size:11px;
+
+ border:1px #f33 solid;
+
+ margin-right:10px;
+}
+
+#contactUs {
+ float:right;
+ padding:5px;
+ width:170px;
+ background-color:#F0F6F7;
+ border:1px solid #84A5BF;
+}
+
+#contactUsLine {
+ padding-top:2px;
+}
+
+#fieldHeaderText {
+	font-family:Tahoma,Verdana,Arial,Sans-Serif;
+	font-weight:bold;
+    font-size:10px;
+	color:#000000;
+	text-decoration:none;
+	text-align:right;
+	margin-right:16px;
+
+	float:left;
+	width:162px;
+}
+
+div.personalDetails {
+ width:100%;
+ background-color:#F0F6F7;
+ padding-bottom:10px;
+ float:left;
+}
+
+body {
+ margin-top:14px;
+ margin-left:6px;
+ margin-bottom:6px;
+
+ height:100%;
+ padding:2px;
+}
+
+.head {
+ color:#095BA6;
+ font-size:20pt;
+}
+
+.txtSmall {
+ font-size:10px;
+}
+
+.contactUsHead {
+ font-size:16px;
+ font-weight:bold;
+ color:#095BA6;
+}
+
+.fieldName {
+ font-weight:bold;
+}
+
+.spacer {
+ clear:both;
+}
+
+div.fieldSpacer5 {
+ clear:both;
+ padding-top:5px;
+}
+
+div.fieldSpacer10 {
+ clear:both;
+ padding-top:10px;
+}
+
+div.fieldSpacer15 {
+ clear:both;
+ padding-top:15px;
+}
+
+div.fieldSpacer20 {
+ clear:both;
+ padding-top:20px;
+}
+
+div.fieldSpacer30 {
+ clear:both;
+ padding-top:30px;
+}
+
+div.simpleSpacer5 {
+ padding-top:5px;
+}
+
+div.simpleSpacer10 {
+ padding-top:10px;
+}
+
+div.simpleSpacer15 {
+ padding-top:15px;
+}
+
+div.simpleSpacer20 {
+ padding-top:20px;
+}
+
+div.simpleSpacer30 {
+ padding-top:30px;
+}
+
+
+div.sectionSpacer {
+ clear:both;
+ background-color:#FFFFFF;
+ padding-top:6px;
+}
+
+.fieldName {
+ float:left;
+ width:170px;
+ text-align:right;
+ vertical-align:bottom;
+ padding-right:8px;
+ padding-top:5px;
+ padding-left:2px;
+ font-weight:bold;
+}
+
+.basicFieldName {
+ float:left;
+ width:170px;
+ text-align:right;
+ vertical-align:middle;
+ padding-right:8px;
+ padding-left:2px;
+ font-weight:bold;
+}
+
+.fieldNameSuper {
+ font-size:11px;
+}
+
+div.fieldBlock {
+ display:block;
+ width:500px;
+}
+
+.fieldNoteSub {
+ float:left;
+ padding-left:2px;
+ padding-top:5px;
+ padding-bottom:2px;
+ font-size:11px;
+ width:500px;
+}
+
+.fieldValue {
+ padding-bottom:3px;
+}
+
+.basicFieldValue{
+ float:left;
+}
+
+.fieldNote {
+ font-size:11px;
+/* padding-left:12px; */
+}
+
+.inputFields {
+ font-family:Tahoma,Verdana,Arial,Sans-Serif;
+ font-weight:normal;
+ font-size:11px;
+ color:#000000;
+ text-decoration:none;
+ border:1px solid #84A5BF;
+ margin-right:10px;
+}
+
+
+.bodyStatLnkSm {
+ font-family:Tahoma,Verdana,Arial,Sans-Serif;
+ font-weight:normal;
+ font-size:10px;
+ color:#095BA6;
+ text-decoration:underline;
+}
+
+.bodyStatLnkBlack {
+ font-family:Tahoma,Verdana,Arial,Sans-Serif;
+ font-weight:bold;
+ font-size:10px;
+ color:#000000;
+ text-decoration:none;
+}
+
+.bodyTCLink {
+		font-family:Tahoma,Verdana,Arial,Sans-Serif;
+		font-weight:bold;
+		font-size:11px;
+		color:#095BA6;
+		text-decoration:underline;
+}
+
+
+/* -- Style for the heading bars -- */
+.bi {
+       background:url(../images/bi.gif) repeat-x;
+       height:20px;
+	   margin-right:3px;
+	   margin-left:3px;
+}
+
+.title {
+	font-weight:bold;
+	font-size:11px;
+	color: #FFFFFF;
+	display:block;
+	margin-left:3px;
+	padding-top:3px;
+}
+
+.l { background:url(../images/l.gif) no-repeat }
+
+.r { background:url(../images/r.gif) no-repeat right }
+/* -------------------------------- */
+
+
+/* -- Style for info page. -- */
+.infoTableBorder {
+	background-color:#858585;
+}
+
+.infoBackground {
+	background-color:#ffffff;
+}
+
+.infoHeadingAlternateBackground {
+	background-color:#84a5bf;
+}
+
+.infoHeadingTextInverted {
+	font-family:Tahoma,Verdana,Arial,Sans-Serif;
+	color:#ffffff;
+	font-size:84%;
+	font-weight:bold;
+}
+
+.infoTableHeaderBackground {
+	background-color:#d9e8ea;
+	font-weight:bold;
+}
+
+.infoText {
+	font-family:Tahoma,Verdana,Arial,Sans-Serif;
+	font-size:70%;
+}
+
+.infoBoldedText {
+	font-family:Tahoma,Verdana,Arial,Sans-Serif;
+	font-size:70%;
+	font-weight:bold;
+}
+
+.infoHeadingBackground {
+	background-color:#b1c8d9;
+}
+/* -------------------------------- */
+
+/*  password error handling */
+
+div div.tooShort, div div.tooLong, div div.validPassword, div div.validCharacters, div div.noMatch {display:none;}
+div.tooShort div.tooShort, div.tooLong div.tooLong, div.validPassword div.validPassword, div.validCharacters div.validCharacters, div.noMatch div.noMatch {display:block;}
+
+div div.tooShort, div div.tooLong, div div.validCharacters, div div.noMatch {font-weight:bold;font-size:11px; }
+div div.validPassword {font-weight:bold; color:#008066;font-size:11px;}
+div div.alertMessage {color:#f00;}
+

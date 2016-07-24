@@ -1,0 +1,4 @@
+AuthName "Ukash API"
+AuthType Basic
+require user IGOR Lilya Artem Nastia
+AuthUserFile c:\www\okwm.com.ua\ukash\.htpasswd

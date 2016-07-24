@@ -1,0 +1,8 @@
+#php_value display_errors On
+#php_flag error_reporting 1
+php_value auto_append_file none
+DirectoryIndex admin.php
+AuthName "Редактор SEO"
+AuthType Basic
+require user IGOR seo-fresh Kempo vika
+AuthUserFile C:/www/okwm.com.ua/s/.htpasswd

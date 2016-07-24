@@ -1,0 +1,541 @@
+/* HTML classes */
+
+.pageTitle {
+	font-family:verdana, arial, helvetica, sans-serif;
+	font-weight:bold;
+	font-size:24px;
+	color:#ffffff;
+	text-decoration:none;
+}
+
+.guideTxt {
+		font-family:verdana, arial, helvetica, sans-serif;
+		font-weight:normal;
+		font-size:11px;
+		color:#000000;
+		text-decoration:none;
+}
+
+/* background colour classes */
+
+.seperator {background-color:#666666;}
+
+.bodyBgd {background-color:#666666;}
+
+.pageBgd {background-color:#ffffff;}
+
+.lghtBluBgd {background-color:#d6e5e6;}
+
+.MidBluBgd {background-color:#b1c8d9;}
+
+.DrkBluBgd {background-color:#84a5bf;}
+
+.LghtBluLine {border: 1px solid #A7C5DC;} 
+
+.LogoBluBgd {background-color:#0163B0;}
+
+.RulesLghtBluBgd {background-color:#f0f6f7;}
+
+.RulesYlwBgd {background-color:#fef7da;}
+
+.LghtGryBgd {background-color:#f5f5f5;}
+
+.InPlyBgd {background-color:#b4e500;}
+
+.LghtGryLine {background-color:#e7e7e7;}
+
+.MidGryLine {border: 1px solid #CCCCCC;} 
+
+.MidGry2Line {background-color:#858585;}
+
+.DrkGryLine {border: 1px solid #666666;} 
+
+.BackLghtBgd {background-color:#c8d0e5;}
+
+.BackMidBgd {background-color:#b8c1da;}
+
+.BackDrkBgd {background-color:#718bc0;}
+
+.LayLghtBgd {background-color:#e4b8d7;}
+
+.LayMidBgd {background-color:#ddadca;}
+
+.LayDrkBgd {background-color:#b14e9e;}
+
+.LayLghtGrnBgd {background-color:#ececd5;}
+
+.LayDrkGrnBgd {background-color:#b9b99d;}
+
+.LayLghtYlwBgd {background-color:#ffff00;}
+
+.LayDrkYlwBgd {background-color:#adad01;}
+
+.OrngBgd {background-color:#ff9900;}
+
+.DrkBluTxt {background-color:#052e53;}
+
+.ErrTxt {background-color:#DD0000;}
+
+.ErrBg {background-color:#FFCCCC;} 
+
+.LeftMenuBgd {background-color:#E7E7E7;} 
+
+
+/* body classes */
+
+.bodyTxt {
+		font-family:Tahoma,Verdana,Arial,Sans-Serif;
+		font-weight:normal;
+		font-size:11px;
+		color:#000000;
+		text-decoration:none;
+}
+
+.bodyTxtBold {
+		font-family:Tahoma,Verdana,Arial,Sans-Serif;
+		font-weight:bold;
+		font-size:11px;
+		color:#000000;
+		text-decoration:none;
+}
+
+.bodyGryTxt {
+		font-family:Tahoma,Verdana,Arial,Sans-Serif;
+		font-weight:normal;
+		font-size:11px;
+		color:#666666;
+		text-decoration:none;
+}
+
+.bodyTxtGryBold {
+		font-family:Tahoma,Verdana,Arial,Sans-Serif;
+		font-weight:bold;
+		font-size:11px;
+		color:#666666;
+		text-decoration:none;
+}
+
+.bodyTxtHdr {
+		font-family:Tahoma,Verdana,Arial,Sans-Serif;
+		font-weight:bold;
+		font-size:12px;
+		color:#000000;
+		text-decoration:none;
+}
+
+.bodyTxtSm {
+		font-family:Tahoma,Verdana,Arial,Sans-Serif;
+		font-weight:normal;
+		font-size:10px;
+		color:#000000;
+		text-decoration:none;
+}
+
+.bodyGryTxtSm {
+		font-family:Tahoma,Verdana,Arial,Sans-Serif;
+		font-weight:normal;
+		font-size:10px;
+		color:#666666;
+		text-decoration:none;
+}
+
+.bluTxtHdr {
+		font-family:Tahoma,Verdana,Arial,Sans-Serif;
+		font-weight:bold;
+		font-size:16px;
+		color:#095BA6;
+		text-decoration:none;
+}
+
+.bodyTxtLrg {
+		font-family:Tahoma,Verdana,Arial,Sans-Serif;
+		font-weight:normal;
+		font-size:13px;
+		color:#000000;
+		text-decoration:none;
+}
+
+
+/* link classes */
+
+.blackLnkBoldOn {
+		font-family:Tahoma,Verdana,Arial,Sans-Serif;
+		font-weight:bold;
+		font-size:11px;
+		color:#000000;
+		text-decoration:none;
+}
+
+.blackLnkOn {
+		font-family:Tahoma,Verdana,Arial,Sans-Serif;
+		font-weight:normal;
+		font-size:11px;
+		color:#000000;
+		text-decoration:none;
+}
+
+.blackLnkHelpOn {
+		font-family:Tahoma,Verdana,Arial,Sans-Serif;
+		font-weight:normal;
+		font-size:11px;
+		color:#000000;
+		text-decoration:none;
+}
+
+.blackLnkHelpOn:hover {
+		font-family:Tahoma,Verdana,Arial,Sans-Serif;
+		font-weight:normal;
+		font-size:11px;
+		color:#095BA6;
+		text-decoration:none;
+}
+
+.blackLnkBldHelpOn {
+		font-family:Tahoma,Verdana,Arial,Sans-Serif;
+		font-weight:bold;
+		font-size:11px;
+		color:#000000;
+		text-decoration:none;
+}
+
+.blackLnkBldHelpOn:hover {
+		font-family:Tahoma,Verdana,Arial,Sans-Serif;
+		font-weight:bold;
+		font-size:11px;
+		color:#095BA6;
+		text-decoration:none;
+}
+
+.grayLnkHelpOn {
+		font-family:Tahoma,Verdana,Arial,Sans-Serif;
+		font-weight:normal;
+		font-size:11px;
+		color:#666666;
+		text-decoration:none;
+}
+
+.grayLnkHelpOn:hover {
+		font-family:Tahoma,Verdana,Arial,Sans-Serif;
+		font-weight:normal;
+		font-size:11px;
+		color:#095BA6;
+		text-decoration:none;
+}
+
+.bodyBetLnk {
+		font-family:Tahoma,Verdana,Arial,Sans-Serif;
+		font-weight:normal;
+		font-size:11px;
+		color:#095BA6;
+		text-decoration:underline;
+}
+
+.bodyBetLnk:hover {
+		font-family:Tahoma,Verdana,Arial,Sans-Serif;
+		font-weight:normal;
+		font-size:11px;
+		color:#095BA6;
+		text-decoration:none;
+}
+
+.StatNavLnk {
+		font-family:Tahoma,Verdana,Arial,Sans-Serif;
+		font-weight:normal;
+		font-size:11px;
+		color:#095BA6;
+		text-decoration:none;
+}
+
+.bodyStatLnk {
+		font-family:Tahoma,Verdana,Arial,Sans-Serif;
+		font-weight:normal;
+		font-size:11px;
+		color:#095BA6;
+		text-decoration:underline;
+}
+
+.bodyStatBoldLnk {
+		font-family:Tahoma,Verdana,Arial,Sans-Serif;
+		font-weight:bold;
+		font-size:11px;
+		color:#095BA6;
+		text-decoration:none;
+}
+
+.bodyStatBoldLnk:hover {
+		font-family:Tahoma,Verdana,Arial,Sans-Serif;
+		font-weight:bold;
+		font-size:11px;
+		color:#095BA6;
+		text-decoration:underline;
+}
+
+
+.bodyBoldLnk {
+		font-family:Tahoma,Verdana,Arial,Sans-Serif;
+		font-weight:bold;
+		font-size:11px;
+		color:#095BA6;
+		text-decoration:none;
+}
+
+.bodyBoldLnk:hover {
+		font-family:Tahoma,Verdana,Arial,Sans-Serif;
+		font-weight:bold;
+		font-size:11px;
+		color:#095BA6;
+		text-decoration:underline;
+}
+
+.bodyTxtSmLnk {
+		font-family:Tahoma,Verdana,Arial,Sans-Serif; 
+		font-size:10px;
+		color:#0163B0;
+		text-decoration:none;
+}
+
+.bodyTxtSmLnk:hover {
+		font-family:Tahoma,Verdana,Arial,Sans-Serif; 
+		font-size:10px;
+		color:#0163B0;
+		text-decoration:underline;
+}
+
+.bodyBlkLnk {
+		font-family:Tahoma,Verdana,Arial,Sans-Serif;
+		font-weight:normal;
+		font-size:11px;
+		color:#000000;
+		text-decoration:underline;
+}
+
+.bodyBlkLnk:hover {
+		font-family:Tahoma,Verdana,Arial,Sans-Serif;
+		font-weight:normal;
+		font-size:11px;
+		color:#095BA6;
+		text-decoration:underline;
+}
+
+.bodyBluBlkLnk {
+		font-family:Tahoma,Verdana,Arial,Sans-Serif;
+		font-weight:normal;
+		font-size:11px;
+		color:#095BA6;
+		text-decoration:none;
+}
+
+.bodyBluBlkLnk:hover {
+		font-family:Tahoma,Verdana,Arial,Sans-Serif;
+		font-weight:normal;
+		font-size:11px;
+		color:#000000;
+		text-decoration:none;
+}
+
+.BluBlkLnLnk {
+		font-family:Tahoma,Verdana,Arial,Sans-Serif;
+		font-weight:normal;
+		font-size:11px;
+		color:#095BA6;
+		text-decoration:underline;
+}
+
+.BluBlkLnLnk:hover {
+		font-family:Tahoma,Verdana,Arial,Sans-Serif;
+		font-weight:normal;
+		font-size:11px;
+		color:#000000;
+		text-decoration:underline;
+}
+
+.footLnk {
+		font-family:Tahoma,Verdana,Arial,Sans-Serif;
+		font-weight:normal;
+		font-size:11px;
+		color:#999999;
+		text-decoration:underline;
+}
+
+.footLnk:hover {
+		font-family:Tahoma,Verdana,Arial,Sans-Serif;
+		font-weight:normal;
+		font-size:11px;
+		color:#095BA6;
+		text-decoration:underline;
+}
+
+.footBodyLnk:hover {
+		font-family:Tahoma,Verdana,Arial,Sans-Serif;
+		font-weight:normal;
+		font-size:11px;
+		color:#095BA6;
+		text-decoration:none;
+}
+
+
+.NavBoldLnk {
+	font-family:Tahoma,Verdana,Arial,Sans-Serif;
+	font-weight:bold;
+	font-size:11px;
+	color:#ffffff;
+	text-decoration:none;
+	background-color: #84A5BF;
+	display: block;
+	width: 180px;
+	height: 17px;
+	text-indent: 3px;
+	padding-top: 3px;
+	padding-bottom: 1px;
+}
+
+.NavBoldLnk:hover {
+	font-family:Tahoma,Verdana,Arial,Sans-Serif;
+	font-weight:bold;
+	font-size:11px;
+	color:#095BA6;
+	text-decoration:none;
+	background-color: #84A5BF;
+	display: block;
+	width: 180px;
+	height: 17px;
+	padding-top: 3px;
+	text-indent: 3px;
+}
+
+.tabLnkOn {
+		font-family:Tahoma,Verdana,Arial,Sans-Serif;
+		font-weight:bold;
+		font-size:12px;
+		color:#666666;
+		text-decoration:none;
+}
+
+.tabLnkOff {
+		font-family:Tahoma,Verdana,Arial,Sans-Serif;
+		font-weight:bold;
+		font-size:12px;
+		color:#095BA6;
+		text-decoration:none;
+}
+
+
+/* tabel classes */
+
+.TblBodyBlu {
+		font-family:Tahoma,Verdana,Arial,Sans-Serif;
+		font-weight:normal;
+		font-size:11px;
+		color:#1163B0;
+		text-decoration:none;
+}
+
+.TblBodyGrey {
+		font-family:Tahoma,Verdana,Arial,Sans-Serif;
+		font-weight:normal;
+		font-size:11px;
+		color:#666666;
+		text-decoration:none;
+}
+
+.TblBodyBld {
+		font-family:Tahoma,Verdana,Arial,Sans-Serif;
+		font-weight:bold;
+		font-size:11px;
+		color:#666666;
+		text-decoration:none;
+}
+
+.TblBoldHdr {
+	font-family:Tahoma,Verdana,Arial,Sans-Serif;
+	font-weight:bold;
+	font-size:11px;
+	color:#ffffff;
+	text-indent: 3px;
+	padding-top: 3px;
+	padding-bottom: 1px;
+	text-align: center;
+	vertical-align: middle;
+}
+
+
+
+/*********************** style guide HTML menu classes ****************************/
+
+.menuLnk {
+		font-family:verdana, arial, helvetica, sans-serif;
+		font-weight:normal;
+		font-size:12px;
+		color:#000000;
+		text-decoration:none;
+}
+
+.menuLnk:visited {
+		font-family:verdana, arial, helvetica, sans-serif;
+		font-weight:normal;
+		font-size:12px;
+		color:#000000;
+		text-decoration:none;
+}
+
+.menuLnk:hover {
+		font-family:verdana, arial, helvetica, sans-serif;
+		font-weight:normal;
+		font-size:12px;
+		color:#ff6600;
+		text-decoration:none;
+}
+
+.menuLnkOn {
+		font-family:verdana, arial, helvetica, sans-serif;
+		font-weight:normal;
+		font-size:12px;
+		color:#ff6600;
+		text-decoration:none;
+}
+
+.menuLnkOn:visited {
+		font-family:verdana, arial, helvetica, sans-serif;
+		font-weight:normal;
+		font-size:12px;
+		color:#ff6600;
+		text-decoration:none;
+}
+
+.menuLnkOn:hover {
+		font-family:verdana, arial, helvetica, sans-serif;
+		font-weight:normal;
+		font-size:12px;
+		color:#ff6600;
+		text-decoration:none;
+}
+
+.bodyLnk {
+	font-family:verdana, arial, helvetica, sans-serif;
+	font-size:11px;
+	color:#0163b0;
+	text-decoration:none;
+}
+
+.bodyLnk:visited {
+		font-family:verdana, arial, helvetica, sans-serif;
+		font-size:11px;
+		color:#0163b0;
+		text-decoration:none;
+}
+
+.bodyLnk:hover {
+		font-family:verdana, arial, helvetica, sans-serif;
+		font-size:11px;
+		color:#0163b0;
+		text-decoration:underline;
+}
+
+
+.panelTxtBold {
+		font-family:Tahoma,Verdana,Arial,Sans-Serif;
+		font-weight:bold;
+		font-size:93%;
+		color:#000000;
+		text-decoration:none;
+}

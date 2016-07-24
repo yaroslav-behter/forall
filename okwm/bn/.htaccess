@@ -1,0 +1,7 @@
+DirectoryIndex index.php
+php_value auto_append_file none
+<Files admin.php>
+  order deny,allow
+  allow from 93.127.52.55
+  deny from all
+</Files>

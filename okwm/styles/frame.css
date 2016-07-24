@@ -1,0 +1,26 @@
+BODY {
+        color: #000000;
+        background: #FFFFFF;
+        margin:  0px;
+        padding: 0px;
+        font-family: arial, verdana, sans-serif;
+        font-size: 12pt;
+
+        scrollbar-track-color:       #F0F0F0;
+        scrollbar-face-color:        #DADADA;
+        scrollbar-arrow-color:       #FF0000;
+
+        scrollbar-base-color:        #F0F0F0;
+        scrollbar-highlight-color:   #939292;
+        scrollbar-shadow-color:      #939292;
+        scrollbar-darkshadow-color:  #FAFAFA;
+}
+
+
+.frame {
+        vertical-align: top;
+        background-color: #FFFFFF;
+        border-color: #959595;
+        border-style: solid;
+        border-width: 1px 1px;
+}

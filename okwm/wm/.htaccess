@@ -1,0 +1,7 @@
+php_value auto_append_file none
+#<Files result.php>
+# order deny,allow
+# deny from all
+# Allow from 212.118.48 212.158.173  82.198.171
+# Allow from 212.118.48.0/255.255.255.0 212.158.173.0/255.255.255.0  82.198.171.0/255.255.255.0
+#</Files>

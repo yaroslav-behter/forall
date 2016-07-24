@@ -1,0 +1,6 @@
+DirectoryIndex reestr.php
+php_value auto_append_file none
+AuthName "Реестр OKWM"
+AuthType Basic
+require user IGOR Elena
+AuthUserFile c:\www\okwm.com.ua\excel_code\.htpasswd

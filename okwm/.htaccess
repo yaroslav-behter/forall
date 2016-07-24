@@ -1,0 +1,21 @@
+Options -Indexes
+#php_value auto_prepend_file "c:\www\okwm.com.ua\renew.php"
+#php_value auto_append_file "c:\www\okwm.com.ua\count.php"
+
+Options +FollowSymLinks
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^okwm\.com\.ua$ [NC]
+RewriteRule ^(.*)$ http://www.okwm.com.ua/$1 [R=301,L]
+
+
+ErrorDocument 400 http://www.okwm.com.ua/index.asp
+ErrorDocument 401 /index.asp
+ErrorDocument 402 http://www.okwm.com.ua/index.asp
+ErrorDocument 403 http://www.okwm.com.ua/index.asp
+ErrorDocument 404 http://www.okwm.com.ua/index.asp
+
+#<Files contacts.asp>
+#	order deny,allow
+#	deny from all
+#	#allow from 93.72.19.17
+#</Files>

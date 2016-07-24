@@ -1,0 +1,17 @@
+# /robots.txt - указывает поисковым роботам какие каталоги
+#               брать для индексации не следует.
+#               Если пуст или не существует, то все можно брать
+#
+#     Пример /robots.txt file
+#
+#     User-agent: webcrawler
+#     Disallow:
+#
+#     User-agent: lycra
+#     Disallow: /
+
+     User-agent: *
+     Disallow: /*?
+     Disallow: /robot.php
+     Disallow: /wm/
+     Disallow: /resultpay.asp
